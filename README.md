@@ -24,5 +24,5 @@ Use this Repository to enhance your skills and not to get a direct solution for 
 
 # Pwned Boxes
 
-- HTB  -> Lame 
-- HTB  -> Shocker
+- HTB  -> [Lame](HTB/Lame)
+- HTB  ->  [Shocker](HTB/Shocker)
