@@ -395,3 +395,4 @@ cat /root/root.txt
 # Lesson
 
 - Always search the internet when you find a suspicious directory or file name 
+- Don't forget to try shellshock when you have a cgi file or directory

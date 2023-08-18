@@ -303,4 +303,4 @@ cat /root/root.txt
 
 # Lesson
 
-- Always check if the services versions are vulnerable before going deep in the Enumeration
+- Always check if the services versions are vulnerable after the Recon
