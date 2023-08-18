@@ -21,3 +21,8 @@ You will find a collection of writeups for difeerent Linux and Windows machines 
 ## Note
 
 Use this Repository to enhance your skills and not to get a direct solution for the machines, try to solve these Boxes first before looking at the writeups
+
+# Pwned Boxes
+
+- HTB  -> Lame 
+- HTB  -> Shocker

@@ -11,7 +11,7 @@ after that try to ping the machine to make sure you are connected
 
 
 ```shell
-ping 10.10.3
+ping 10.10.10.3
 ```
 
 if you get response then we are ready to enumerate
@@ -78,7 +78,7 @@ Nmap done: 1 IP address (1 host up) scanned in 68.09 seconds
 ```
 
 
-to summery this result we have 4 porst open :
+to summery this result we have 4 ports open :
 
 1. 21/ftp
 2. 22/ssh
@@ -299,3 +299,8 @@ cat /home/makis/user.txt
 cat /root/root.txt
 ```
 
+
+
+# Lesson
+
+- Always check if the services versions are vulnerable before going deep in the Enumeration
