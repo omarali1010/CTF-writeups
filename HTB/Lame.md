@@ -1,4 +1,5 @@
 
+
 # Connect to the machine 
 
 use openvpn or another vpn to connect to the machine as follows 
@@ -304,3 +305,4 @@ cat /root/root.txt
 # Lesson
 
 - Always check if the services versions are vulnerable after the Recon
+
