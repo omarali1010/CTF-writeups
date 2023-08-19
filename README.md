@@ -28,5 +28,5 @@ Use this Repository to enhance your skills and not to get a direct solution for 
 - HTB  ->  [Shocker](HTB/Shocker.md)
 - HTB  ->  [Sense](HTB/Sense.md)
 - HTB  ->  [Sunday](HTB/Sunday.md)
-- HTB  ->  [Legacy](Legacy.md)
+- HTB  ->  [Legacy](HTB/Legacy.md)
 
