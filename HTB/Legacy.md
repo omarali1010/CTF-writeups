@@ -21,7 +21,7 @@ if you get response then we are ready to enumerate
  using Nmap with default scripts with default scripts and with services versions
 
 ```shell
-sudo nmap -sV -sC 10.10.10.4
+sudo nmap -sV -sS 10.10.10.4
 ```
 
 
