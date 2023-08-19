@@ -233,3 +233,9 @@ and we landed in a root shell :)
 
 and we can read the root flag in 
 /root/root.txt
+
+
+# Lesson
+
+- Do not be afraid from services that you never heard  of like Finger, just search the Internet about it and it will be easy.
+- If a way of PE is closed like in the troll script ,do not waste so much time on it just search for another.

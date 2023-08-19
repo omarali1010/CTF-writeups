@@ -29,4 +29,6 @@ Use this Repository to enhance your skills and not to get a direct solution for 
 - HTB  ->  [Sense](HTB/Sense.md)
 - HTB  ->  [Sunday](HTB/Sunday.md)
 - HTB  ->  [Legacy](HTB/Legacy.md)
+- HTB  ->  [Blue](HTB/Blue.md)
+
 
