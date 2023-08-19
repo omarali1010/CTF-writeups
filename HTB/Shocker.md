@@ -229,9 +229,8 @@ from the result above we can see 2 directories  with status code 403, which is b
 1. cgi-bin
 2. icons
 
-the cgi-bin directory looks more interesting ,just googling `cgi-bin exploit` landed me in this wonderful page 
+the cgi-bin directory looks more interesting ,just googling `cgi-bin exploit` landed me in this wonderful page  [hacktricks_cgi](https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/cgi)
 
-https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/cgi
 
 it looks like we should fuzz the web server for a script in the cgi-bin file , if we succeed we should check for the exploit mentioned in the page `ShellShock`
 

@@ -59,9 +59,9 @@ OS : **Windows XP**
 
 
 ## msrpc
-i tried first exploiting the service according to https://book.hacktricks.xyz/network-services-pentesting/135-pentesting-msrpc , but looks like we have no access over it .
+i tried first exploiting the service according to [hacktricks_MSRPC](https://book.hacktricks.xyz/network-services-pentesting/135-pentesting-msrpc) , but looks like we have no access over it .
 
-i used metasploit as follows :
+i used Metasploit as follows :
 
 ```shell
 msfconsole
@@ -107,7 +107,7 @@ it looks like we should look for the other services
 
 ### SMB
 
-the other two ports are used for smb services , following  https://book.hacktricks.xyz/network-services-pentesting/pentesting-smb we can search inside metasploit for an exploit with the following command
+the other two ports are used for smb services , following  [hacktricks_SMB](https://book.hacktricks.xyz/network-services-pentesting/pentesting-smb) we can search inside metasploit for an exploit with the following command
 
 ```shell
 

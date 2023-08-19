@@ -219,7 +219,7 @@ User sammy may run the following commands on sunday:
 
 we can execute wget as root 
 
-going to the site https://gtfobins.github.io/ and searching for wget,
+going to the site [gtfOBINS](https://gtfobins.github.io/) and searching for wget,
 we see that we can get a root shell using the following commands 
 
 ```
