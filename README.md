@@ -26,5 +26,5 @@ Use this Repository to enhance your skills and not to get a direct solution for 
 
 - HTB  -> [Lame](HTB/Lame.md)
 - HTB  ->  [Shocker](HTB/Shocker.md)
--  HTB  ->  [Sense](HTB/Sense.md)
-- -  HTB  ->  [Sunday](HTB/Sunday.md)
+- HTB  ->  [Sense](HTB/Sense.md)
+- HTB  ->  [Sunday](HTB/Sunday.md)
