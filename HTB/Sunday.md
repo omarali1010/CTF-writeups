@@ -10,7 +10,7 @@ after that try to ping the machine to make sure you are connected
 
 
 ```shell
-ping 10.10.10.3
+ping 10.10.10.76
 ```
 
 if you get response then we are ready to enumerate
