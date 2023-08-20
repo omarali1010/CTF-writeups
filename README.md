@@ -28,12 +28,13 @@ Use this Repository to enhance your skills and not to get a direct solution for 
 
 # Pwned Boxes
 
-- HTB  -> [Lame](HTB/Lame.md)
-- HTB  ->  [Shocker](HTB/Shocker.md)
-- HTB  ->  [Sense](HTB/Sense.md)
-- HTB  ->  [Sunday](HTB/Sunday.md)
-- HTB  ->  [Legacy](HTB/Legacy.md)
-- HTB  ->  [Blue](HTB/Blue.md)
+HTB: 
+- [Lame](HTB/Lame.md)
+- [Shocker](HTB/Shocker.md)
+- [Sense](HTB/Sense.md)
+- [Sunday](HTB/Sunday.md)
+- [Legacy](HTB/Legacy.md)
+- [Blue](HTB/Blue.md)
 
 
 # Boxes to Pwn
