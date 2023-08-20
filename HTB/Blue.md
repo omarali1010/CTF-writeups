@@ -87,7 +87,7 @@ OS : **Windows 7 Professional**
 ## SMB
 as we have an SMB share on the Windows host and it is one of the EOL systems , i am sure there is a public exploit and a CVE for it , doing simple search on the Internet landed us in the famous **Eternal Blue** exploit.
 
-looking at the lind [rapid7_EternalBlue](https://www.rapid7.com/db/modules/exploit/windows/smb/ms17_010_eternalblue/) ,we can see that we can use Metasploit to attack the host.
+looking at the link [rapid7_EternalBlue](https://www.rapid7.com/db/modules/exploit/windows/smb/ms17_010_eternalblue/) ,we can see that we can use Metasploit to attack the host.
 
 lets this time do something different and create a Metasploit Resource file.
 
